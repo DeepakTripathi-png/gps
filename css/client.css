@@ -1,0 +1,52 @@
+/* client page css */
+
+.clients-section {
+    margin-top: 50px;
+  }
+  .clients {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  .clients-border>li {
+    position: relative;
+  }
+  .clients li {
+    height: 100px;
+    margin: 0 41px;
+    width: 100px;
+    display: inline-block;
+    cursor: pointer;
+  }
+  .clients>li img {
+    filter: gray;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+    position: relative;
+    z-index: 9;
+    margin: 0 auto;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  .clients li img {
+    max-width: 90%;
+      -webkit-transition: all .35s ease-in-out;
+    -o-transition: .35s all ease-in-out;
+    transition: all .35s ease-in-out;
+  }
+  .clients-border>li:after {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    border: 1px solid #eee;
+    left: 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    background: #fff;
+    top: 0;
+  }

@@ -1,0 +1,106 @@
+Sample Data Entry 1:
+
+Driver Name: John Doe
+Container No: CN123456
+Vehicle No: VD7890
+License No: DL1234567890
+ID Proof No: PID12345
+Mobile No: 123-456-7890
+Co-Driver Name: Jane Smith
+Co-Driver License No: DL5432198765
+Co-Driver ID Proof No: PID54321
+Invoice No: INV-2023-001
+Invoice Date: 2023-11-08
+Customer CIF Value in INR: 50,000.00
+E-Way Bill No: EWB-123456
+Shipping Details: Shipment from Mumbai Port to New York Port, via vessel XYZ-123
+Exporter Details: ABC Exports Pvt. Ltd., 123 Export Street, Mumbai, India
+Start Trip Date: 2023-11-09
+Expected Arrival Time: 2023-11-15
+Cargo Type: Electronics
+Shipment Type: FCL (Full Container Load)
+Sample Data Entry 2:
+
+Driver Name: Sarah Johnson
+Container No: CN789012
+Vehicle No: VD4567
+License No: DL9876543210
+ID Proof No: PID67890
+Mobile No: 987-654-3210
+Co-Driver Name: Michael Brown
+Co-Driver License No: DL3456789123
+Co-Driver ID Proof No: PID67891
+Invoice No: INV-2023-002
+Invoice Date: 2023-11-10
+Customer CIF Value in INR: 75,000.00
+E-Way Bill No: EWB-789012
+Shipping Details: Shipment from Chennai Port to Los Angeles Port, via vessel ABC-456
+Exporter Details: XYZ Exports Pvt. Ltd., 456 Export Lane, Chennai, India
+Start Trip Date: 2023-11-11
+Expected Arrival Time: 2023-11-18
+Cargo Type: Textiles
+Shipment Type: LCL (Less than Container Load)
+Sample Data Entry 3:
+
+Driver Name: Robert Smith
+Container No: CN987654
+Vehicle No: VD1234
+License No: DL9876543210
+ID Proof No: PID98765
+Mobile No: 987-654-9876
+Co-Driver Name: Lisa Davis
+Co-Driver License No: DL6543219876
+Co-Driver ID Proof No: PID65432
+Invoice No: INV-2023-003
+Invoice Date: 2023-11-12
+Customer CIF Value in INR: 60,000.00
+E-Way Bill No: EWB-987654
+Shipping Details: Shipment from Delhi Port to Sydney Port, via vessel DEF-789
+Exporter Details: PQR Exports Pvt. Ltd., 789 Export Road, Delhi, India
+Start Trip Date: 2023-11-13
+Expected Arrival Time: 2023-11-19
+Cargo Type: Pharmaceuticals
+Shipment Type: FCL (Full Container Load)
+Sample Data Entry 4:
+
+Driver Name: Maria Garcia
+Container No: CN567890
+Vehicle No: VD5678
+License No: DL5678901234
+ID Proof No: PID56789
+Mobile No: 567-890-1234
+Co-Driver Name: James Wilson
+Co-Driver License No: DL7890123456
+Co-Driver ID Proof No: PID78901
+Invoice No: INV-2023-004
+Invoice Date: 2023-11-14
+Customer CIF Value in INR: 80,000.00
+E-Way Bill No: EWB-567890
+Shipping Details: Shipment from Kolkata Port to London Port, via vessel GHI-123
+Exporter Details: RST Exports Pvt. Ltd., 567 Export Avenue, Kolkata, India
+Start Trip Date: 2023-11-15
+Expected Arrival Time: 2023-11-22
+Cargo Type: Food Products
+Shipment Type: LCL (Less than Container Load)
+Sample Data Entry 5:
+
+Driver Name: William Turner
+Container No: CN234567
+Vehicle No: VD3456
+License No: DL3456789012
+ID Proof No: PID34567
+Mobile No: 345-678-9012
+Co-Driver Name: Emily White
+Co-Driver License No: DL1234567890
+Co-Driver ID Proof No: PID12345
+Invoice No: INV-2023-005
+Invoice Date: 2023-11-15
+Customer CIF Value in INR: 70,000.00
+E-Way Bill No: EWB-234567
+Shipping Details: Shipment from Chennai Port to Singapore Port, via vessel JKL-456
+Exporter Details: MNO Exports Pvt. Ltd., 234 Export Boulevard, Chennai, India
+Start Trip Date: 2023-11-16
+Expected Arrival Time: 2023-11-23
+Cargo Type: Automotive Parts
+Shipment Type: FCL (Full Container Load)
+These are 5 sample data entries with the requested information, including the "Start Trip Date," "Expected Arrival Time," "Cargo Type," and "Shipment Type" columns.

@@ -1,0 +1,12 @@
+{
+  "batteryLevel": 22.0,
+  "vin": 0.0,
+  "ignition": false,
+  "odometer": 485.0,
+  "lock": "lock",
+  "distance": 0.24,
+  "totalDistance": 1.8322951722e8,
+  "ip": "127.0.0.1",
+  "motion": false,
+  "hours": 1303000
+}
