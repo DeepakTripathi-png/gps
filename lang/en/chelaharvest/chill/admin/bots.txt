@@ -1,0 +1,184 @@
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/192.30.83.51<br/>
+DateTime        : 05-11-2024 13:19:06<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0<br/>
+Host ADDR       : 192-30-83-51-host.colocrossing.com<br/>
+Referer         : NONE<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : NO COOKIES ---]+<br/>
+IP ADDR         : https://db-ip.com/185.181.115.151<br/>
+DateTime        : 05-11-2024 18:19:11<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0<br/>
+Host ADDR       : 185.181.115.151<br/>
+Referer         : NONE<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/44.219.64.67<br/>
+DateTime        : 05-11-2024 22:04:52<br/>
+User-Agent      : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36<br/>
+Host ADDR       : ec2-44-219-64-67.compute-1.amazonaws.com<br/>
+Referer         : https://xallied.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/3.129.148.186<br/>
+DateTime        : 06-11-2024 07:22:05<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+Host ADDR       : ec2-3-129-148-186.us-east-2.compute.amazonaws.com<br/>
+Referer         : https://xallied.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/87.249.138.77<br/>
+DateTime        : 06-11-2024 09:13:00<br/>
+User-Agent      : Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+Host ADDR       : unn-87-249-138-77.datapacket.com<br/>
+Referer         : https://xallied.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/3.129.148.186<br/>
+DateTime        : 06-11-2024 09:13:15<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+Host ADDR       : ec2-3-129-148-186.us-east-2.compute.amazonaws.com<br/>
+Referer         : https://xallied.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/87.249.138.77<br/>
+DateTime        : 06-11-2024 09:13:28<br/>
+User-Agent      : Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+Host ADDR       : unn-87-249-138-77.datapacket.com<br/>
+Referer         : https://xallied.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/87.249.138.77<br/>
+DateTime        : 06-11-2024 09:13:40<br/>
+User-Agent      : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+Host ADDR       : unn-87-249-138-77.datapacket.com<br/>
+Referer         : https://xallied.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : NO COOKIES ---]+<br/>
+IP ADDR         : https://db-ip.com/176.126.74.106<br/>
+DateTime        : 06-11-2024 14:24:14<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0<br/>
+Host ADDR       : 176.126.74.106<br/>
+Referer         : NONE<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/192.30.83.249<br/>
+DateTime        : 06-11-2024 09:24:19<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0<br/>
+Host ADDR       : 192-30-83-249-host.colocrossing.com<br/>
+Referer         : NONE<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/87.249.138.77<br/>
+DateTime        : 06-11-2024 10:07:54<br/>
+User-Agent      : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.3 Safari/605.1.15<br/>
+Host ADDR       : unn-87-249-138-77.datapacket.com<br/>
+Referer         : https://xallied.com/nnn/chwin.html<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/37.19.196.105<br/>
+DateTime        : 06-11-2024 13:16:15<br/>
+User-Agent      : Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+Host ADDR       : unn-37-19-196-105.datapacket.com<br/>
+Referer         : https://armohomes.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/23.228.131.198<br/>
+DateTime        : 06-11-2024 13:48:29<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36<br/>
+Host ADDR       : 23-228-131-198.mci.googlefiber.net<br/>
+Referer         : http://verdiledlighting.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/44.198.253.23<br/>
+DateTime        : 07-11-2024 02:00:51<br/>
+User-Agent      : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36<br/>
+Host ADDR       : ec2-44-198-253-23.compute-1.amazonaws.com<br/>
+Referer         : http://verdiledlighting.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/35.208.38.153<br/>
+DateTime        : 07-11-2024 03:19:55<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0<br/>
+Host ADDR       : 153.38.208.35.bc.googleusercontent.com<br/>
+Referer         : NONE<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/37.19.196.190<br/>
+DateTime        : 07-11-2024 07:51:09<br/>
+User-Agent      : Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+Host ADDR       : unn-37-19-196-190.datapacket.com<br/>
+Referer         : https://xallied.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/37.19.196.190<br/>
+DateTime        : 07-11-2024 07:51:27<br/>
+User-Agent      : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.3 Safari/605.1.15<br/>
+Host ADDR       : unn-37-19-196-190.datapacket.com<br/>
+Referer         : https://xallied.com/nnn/chwin.html<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/37.19.196.190<br/>
+DateTime        : 07-11-2024 12:53:50<br/>
+User-Agent      : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.3 Safari/605.1.15<br/>
+Host ADDR       : unn-37-19-196-190.datapacket.com<br/>
+Referer         : https://gpspackseal.in/lang/en/chelaharvest/chill/dcaca2f04/verify?id=myaccount&y=24eb8a61934e4798d8b91a5e4531c1d8<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/37.19.196.190<br/>
+DateTime        : 07-11-2024 08:28:59<br/>
+User-Agent      : Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+Host ADDR       : unn-37-19-196-190.datapacket.com<br/>
+Referer         : https://www.pojelaime.net/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/63.88.73.138<br/>
+DateTime        : 07-11-2024 09:21:10<br/>
+User-Agent      : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/26.0 Chrome/122.0.0.0 Mobile Safari/537.36<br/>
+Host ADDR       : 138.73.88.63.ashburn.google-ggc.verizon.com<br/>
+Referer         : https://www.google.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/204.186.55.231<br/>
+DateTime        : 07-11-2024 14:16:18<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36<br/>
+Host ADDR       : google-cache.pal.ptd.net<br/>
+Referer         : https://www.pojelaime.net/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/35.208.38.153<br/>
+DateTime        : 08-11-2024 20:30:44<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0<br/>
+Host ADDR       : 153.38.208.35.bc.googleusercontent.com<br/>
+Referer         : NONE<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/34.201.39.227<br/>
+DateTime        : 13-11-2024 17:34:51<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+Host ADDR       : ec2-34-201-39-227.compute-1.amazonaws.com<br/>
+Referer         : NONE<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>

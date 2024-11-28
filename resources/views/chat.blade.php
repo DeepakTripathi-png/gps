@@ -50,7 +50,7 @@
             }
 
             $.ajax({
-                url: 'http://127.0.0.1:8000/admin/send-message',
+                url: "{{ route('admin.send-message') }}",
                 type: 'POST',
                 data: { message: message },
                 headers: {
@@ -58,13 +58,16 @@
                 },
                 success: function(response) {
                     console.log(response);
-                    document.getElementById('message').value = ''; // Clear input field
+                    document.getElementById('message').value = '';
                 },
                 error: function(xhr, status, error) {
                     console.error(error);
                 }
             });
         }
+
+
+
 
         const pusher = new Pusher('04d27283f0a7f3aa8a5a', {
             cluster: 'ap2',

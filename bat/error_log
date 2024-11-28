@@ -4,3 +4,7 @@
 [05-Jul-2024 21:07:10 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/gpspackseal/public_html/bat/phpmailer/PHPMailerAutoload.php on line 45
 [23-Jul-2024 11:04:06 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/gpspackseal/public_html/bat/phpmailer/PHPMailerAutoload.php on line 45
 [23-Jul-2024 11:04:57 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/gpspackseal/public_html/bat/phpmailer/PHPMailerAutoload.php on line 45
+[23-Nov-2024 06:50:43 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/gpspackseal/public_html/bat/phpmailer/PHPMailerAutoload.php on line 45
+[23-Nov-2024 06:50:43 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/gpspackseal/public_html/bat/phpmailer/PHPMailerAutoload.php on line 45
+[26-Nov-2024 06:56:48 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/gpspackseal/public_html/bat/phpmailer/PHPMailerAutoload.php on line 45
+[26-Nov-2024 06:56:49 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home/gpspackseal/public_html/bat/phpmailer/PHPMailerAutoload.php on line 45

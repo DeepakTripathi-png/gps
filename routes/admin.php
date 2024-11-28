@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\CustomersController;
+use App\Http\Controllers\ChatController;
 
 
 
@@ -27,9 +28,15 @@ Route::namespace('Auth')->group(function () {
     });
 });
 
-Route::middleware('admin', 'adminPermission')->group(function () {
 
-    Route::get('/websockets', function (){
+    
+
+
+
+Route::middleware('admin', 'adminPermission')->group(function () {
+    
+    
+       Route::get('/websockets', function (){
         return view('websockets');
     });
 
@@ -39,9 +46,12 @@ Route::middleware('admin', 'adminPermission')->group(function () {
     });
 
 
-    Route::post('/send-message', [ChatController::class, 'sendMessage'])->name('send-message');
-
-
+    Route::post('send-message', [ChatController::class, 'sendMessage'])->name('send-message');
+    
+    
+ 
+    
+  
 
     Route::get('test', function (){
         return view('admin.test');

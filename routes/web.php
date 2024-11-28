@@ -14,12 +14,17 @@ Route::get('/clear', function () {
 
 //frontend
 
-// Route::get('/', function (){
-//     // return redirect()->route('admin.login');
+Route::get('/', function (){
+    // return redirect()->route('admin.login');
 
-//     return redirect('https://gpspackseal.in/index.html');
+    return redirect('https://gpspackseal.in/index.html');
 
-// });
+});
+
+
+
+
+
 
 
 

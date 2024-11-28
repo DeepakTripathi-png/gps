@@ -1,0 +1,32 @@
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/34.201.39.227<br/>
+DateTime        : 15-11-2024 17:43:11<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+Host ADDR       : ec2-34-201-39-227.compute-1.amazonaws.com<br/>
+Referer         : https://hightechdream.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/34.201.39.227<br/>
+DateTime        : 15-11-2024 17:43:48<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+Host ADDR       : ec2-34-201-39-227.compute-1.amazonaws.com<br/>
+Referer         : https://hightechdream.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/54.221.248.89<br/>
+DateTime        : 16-11-2024 01:58:57<br/>
+User-Agent      : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36<br/>
+Host ADDR       : ec2-54-221-248-89.compute-1.amazonaws.com<br/>
+Referer         : https://hightechdream.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/23.228.131.4<br/>
+DateTime        : 16-11-2024 08:32:15<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36<br/>
+Host ADDR       : 23-228-131-4.mci.googlefiber.net<br/>
+Referer         : https://www.google.com/<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>

@@ -22,7 +22,7 @@ class SiteController extends Controller {
     public function index() {
         $pageTitle = 'Home';
         $sections = Page::where('tempname', $this->activeTemplate)->where('slug', '/')->first();
-        return view($this->activeTemplate . 'home', compact('pageTitle', 'sections'));
+        // return view($this->activeTemplate . 'home', compact('pageTitle', 'sections'));
     }
 
     public function pages($slug) {
@@ -380,7 +380,7 @@ class SiteController extends Controller {
         $pageTitle = 'Maintenance Mode';
         $general = gs();
         if (gs('maintenance_mode') == Status::DISABLE) {
-            return to_route('home');
+            // return to_route('home');
         }
         $maintenance = Frontend::where('data_keys', 'maintenance.data')->first();
         return view($this->activeTemplate . 'maintenance', compact('pageTitle', 'maintenance'));

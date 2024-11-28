@@ -15,6 +15,7 @@ class VerifyCsrfToken extends Middleware
         'user/deposit',
         'ipn*',
         'api/*',
-        'laravel-websockets/*'
+        'laravel-websockets/*',
+        
     ];
 }

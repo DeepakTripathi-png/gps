@@ -1,0 +1,665 @@
+--------| VIS!T0R|--------<br/>
+IP = 4.190.157.202<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = 4.190.157.202<br/>
+REFERER = NOT REFERED<br/>
+DATETIME = 05 Nov 2024 10:12:42<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 185.187.243.70<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+HOST ADDR = 185.187.243.70<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 05 Nov 2024 11:56:17<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 185.195.59.20<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+HOST ADDR = 185.195.59.20<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 05 Nov 2024 12:03:18<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 4.190.157.202<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = 4.190.157.202<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 05 Nov 2024 12:10:13<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 185.181.115.167<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0<br/>
+HOST ADDR = 185.181.115.167<br/>
+REFERER = NOT REFERED<br/>
+DATETIME = 05 Nov 2024 13:19:05<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 192.30.83.51<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0<br/>
+HOST ADDR = 192-30-83-51-host.colocrossing.com<br/>
+REFERER = NOT REFERED<br/>
+DATETIME = 05 Nov 2024 13:19:06<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 107.213.61.242<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 107-213-61-242.lightspeed.irvnca.sbcglobal.net<br/>
+REFERER = https://xallied.com//wp-includes/chwin.html<br/>
+DATETIME = 05 Nov 2024 13:20:41<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 4.190.157.202<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = 4.190.157.202<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 05 Nov 2024 13:51:51<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 174.104.213.218<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36<br/>
+HOST ADDR = syn-174-104-213-218.res.spectrum.com<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 05 Nov 2024 19:31:36<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 174.104.213.218<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36<br/>
+HOST ADDR = syn-174-104-213-218.res.spectrum.com<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 05 Nov 2024 19:32:07<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 44.219.64.67<br/>
+USER-AGENT = Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36<br/>
+HOST ADDR = ec2-44-219-64-67.compute-1.amazonaws.com<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 05 Nov 2024 22:04:52<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 93.177.72.28<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36<br/>
+HOST ADDR = 93.177.72.28<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 05 Nov 2024 22:05:40<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 3.129.148.186<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = ec2-3-129-148-186.us-east-2.compute.amazonaws.com<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 07:22:05<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 45.88.222.199<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+HOST ADDR = 45.88.222.199<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 07:24:18<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 87.249.138.77<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+HOST ADDR = unn-87-249-138-77.datapacket.com<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 09:13:00<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 3.129.148.186<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = ec2-3-129-148-186.us-east-2.compute.amazonaws.com<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 09:13:15<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 87.249.138.77<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+HOST ADDR = unn-87-249-138-77.datapacket.com<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 09:13:28<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 87.249.138.77<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = unn-87-249-138-77.datapacket.com<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 09:13:40<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 66.111.61.201<br/>
+USER-AGENT = Mozilla/5.0 (Linux; Android 12; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.165 Mobile Safari/537.36<br/>
+HOST ADDR = 66.111.61.201<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 09:14:17<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 69.24.88.245<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = thistle.hydoaphagoritertreat.com<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 09:15:14<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 69.24.88.245<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = thistle.hydoaphagoritertreat.com<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 09:17:07<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 185.181.115.199<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0<br/>
+HOST ADDR = 185.181.115.199<br/>
+REFERER = NOT REFERED<br/>
+DATETIME = 06 Nov 2024 09:24:08<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 192.30.83.249<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0<br/>
+HOST ADDR = 192-30-83-249-host.colocrossing.com<br/>
+REFERER = NOT REFERED<br/>
+DATETIME = 06 Nov 2024 09:24:19<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 87.249.138.77<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.3 Safari/605.1.15<br/>
+HOST ADDR = unn-87-249-138-77.datapacket.com<br/>
+REFERER = https://xallied.com/nnn/chwin.html<br/>
+DATETIME = 06 Nov 2024 10:07:54<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 172.56.29.105<br/>
+USER-AGENT = Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36<br/>
+HOST ADDR = ue.tmodns.net<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 10:58:21<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 172.56.29.105<br/>
+USER-AGENT = Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36<br/>
+HOST ADDR = ue.tmodns.net<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 11:01:08<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 172.56.28.1<br/>
+USER-AGENT = Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36<br/>
+HOST ADDR = ue.tmodns.net<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 12:07:20<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 172.56.28.1<br/>
+USER-AGENT = Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36<br/>
+HOST ADDR = ue.tmodns.net<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 12:07:31<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 37.19.196.105<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+HOST ADDR = unn-37-19-196-105.datapacket.com<br/>
+REFERER = https://armohomes.com/<br/>
+DATETIME = 06 Nov 2024 13:16:15<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 69.24.88.98<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = red.hydoaphagoritertreat.com<br/>
+REFERER = https://verdiledlighting.com/<br/>
+DATETIME = 06 Nov 2024 13:18:27<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 69.24.88.98<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = red.hydoaphagoritertreat.com<br/>
+REFERER = https://verdiledlighting.com/<br/>
+DATETIME = 06 Nov 2024 13:24:57<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 99.12.120.84<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 99-12-120-84.lightspeed.brhmal.sbcglobal.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 06 Nov 2024 13:37:18<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 99.12.120.84<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 99-12-120-84.lightspeed.brhmal.sbcglobal.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 06 Nov 2024 13:41:33<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 23.228.131.198<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36<br/>
+HOST ADDR = 23-228-131-198.mci.googlefiber.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 06 Nov 2024 13:48:29<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 73.196.165.139<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = c-73-196-165-139.hsd1.nj.comcast.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 06 Nov 2024 14:35:25<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 99.74.183.39<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = 99-74-183-39.lightspeed.cicril.sbcglobal.net<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 15:13:41<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 99.74.183.39<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = 99-74-183-39.lightspeed.cicril.sbcglobal.net<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 06 Nov 2024 15:17:56<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 104.181.120.141<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 104-181-120-141.lightspeed.milwwi.sbcglobal.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 06 Nov 2024 15:35:01<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 73.48.167.237<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = c-73-48-167-237.hsd1.ca.comcast.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 06 Nov 2024 18:25:29<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 107.127.18.30<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 107.127.18.30<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 06 Nov 2024 21:38:56<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 205.220.247.245<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = 205.220.247.245<br/>
+REFERER = https://verdiledlighting.com/<br/>
+DATETIME = 06 Nov 2024 22:18:32<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 72.195.217.244<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = ip72-195-217-244.ph.ph.cox.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 06 Nov 2024 22:55:36<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 216.111.202.247<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/130.0.6723.90 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 216-111-202-247.cust.mi.winntel.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 06 Nov 2024 23:04:29<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 172.56.233.172<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 172.56.233.172<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 01:10:41<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 75.82.0.30<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = syn-075-082-000-030.res.spectrum.com<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 01:43:56<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 44.198.253.23<br/>
+USER-AGENT = Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36<br/>
+HOST ADDR = ec2-44-198-253-23.compute-1.amazonaws.com<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 02:00:51<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 38.204.61.234<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36<br/>
+HOST ADDR = 38.204.61.234<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 02:01:59<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 35.208.38.153<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0<br/>
+HOST ADDR = 153.38.208.35.bc.googleusercontent.com<br/>
+REFERER = NOT REFERED<br/>
+DATETIME = 07 Nov 2024 03:19:55<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 99.12.120.84<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 99-12-120-84.lightspeed.brhmal.sbcglobal.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 06:32:06<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 172.58.129.48<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 172.58.129.48<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 07 Nov 2024 06:59:36<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 108.95.169.216<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 108-95-169-216.lightspeed.miamfl.sbcglobal.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 07:42:20<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 37.19.196.190<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+HOST ADDR = unn-37-19-196-190.datapacket.com<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 07 Nov 2024 07:51:09<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 37.19.196.190<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.3 Safari/605.1.15<br/>
+HOST ADDR = unn-37-19-196-190.datapacket.com<br/>
+REFERER = https://xallied.com/nnn/chwin.html<br/>
+DATETIME = 07 Nov 2024 07:51:27<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 66.111.61.202<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.3 Safari/605.1.15<br/>
+HOST ADDR = 66.111.61.202<br/>
+REFERER = https://xallied.com/nnn/chwin.html<br/>
+DATETIME = 07 Nov 2024 07:51:58<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 66.111.61.202<br/>
+USER-AGENT = Mozilla/5.0 (Linux; Android 12; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.165 Mobile Safari/537.36<br/>
+HOST ADDR = 66.111.61.202<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 07 Nov 2024 07:53:53<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 66.111.61.202<br/>
+USER-AGENT = Mozilla/5.0 (Linux; Android 12; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.165 Mobile Safari/537.36<br/>
+HOST ADDR = 66.111.61.202<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 08:08:01<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 158.247.35.90<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = ip.90.35.247.158.ip.kansas.net<br/>
+REFERER = https://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 08:13:11<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 158.247.35.90<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = ip.90.35.247.158.ip.kansas.net<br/>
+REFERER = https://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 08:13:25<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 158.247.35.90<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = ip.90.35.247.158.ip.kansas.net<br/>
+REFERER = https://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 08:16:45<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 158.247.35.90<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = ip.90.35.247.158.ip.kansas.net<br/>
+REFERER = https://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 08:18:01<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 37.19.196.190<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+HOST ADDR = unn-37-19-196-190.datapacket.com<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 07 Nov 2024 08:28:59<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 158.247.35.90<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = ip.90.35.247.158.ip.kansas.net<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 07 Nov 2024 08:33:01<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 98.44.205.138<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0<br/>
+HOST ADDR = c-98-44-205-138.hsd1.tx.comcast.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 08:42:10<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 70.114.239.40<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0<br/>
+HOST ADDR = syn-070-114-239-040.res.spectrum.com<br/>
+REFERER = https://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 09:14:29<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 131.106.221.89<br/>
+USER-AGENT = Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36<br/>
+HOST ADDR = 131-106-221-89.s121.c3-0.evnv-e6k2.evnv.in.cable.static.rcncustomer.com<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 07 Nov 2024 09:21:08<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 63.88.73.138<br/>
+USER-AGENT = Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/26.0 Chrome/122.0.0.0 Mobile Safari/537.36<br/>
+HOST ADDR = 138.73.88.63.ashburn.google-ggc.verizon.com<br/>
+REFERER = https://www.google.com/<br/>
+DATETIME = 07 Nov 2024 09:21:10<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 174.128.191.1<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = er1.sjc2.atlanticmetro.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 10:24:12<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 73.158.77.117<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15<br/>
+HOST ADDR = c-73-158-77-117.hsd1.ca.comcast.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 11:26:04<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 174.140.82.148<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = d-174-140-82-148.paw.cpe.atlanticbb.net<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 07 Nov 2024 11:33:45<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 68.50.203.154<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = c-68-50-203-154.hsd1.in.comcast.net<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 07 Nov 2024 11:49:26<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 174.224.64.59<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 59.sub-174-224-64.myvzw.com<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 11:51:48<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 104.28.57.245<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 104.28.57.245<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 07 Nov 2024 12:30:08<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 103.25.251.243<br/>
+USER-AGENT = Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36<br/>
+HOST ADDR = 103.25.251.243<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 07 Nov 2024 13:08:44<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 35.147.40.204<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0<br/>
+HOST ADDR = syn-035-147-040-204.res.spectrum.com<br/>
+REFERER = https://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 13:46:53<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 204.186.55.231<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36<br/>
+HOST ADDR = google-cache.pal.ptd.net<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 07 Nov 2024 14:16:18<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 146.12.155.57<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = dhcp57.centralaccess.com<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 07 Nov 2024 15:23:45<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 172.248.40.194<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36<br/>
+HOST ADDR = syn-172-248-040-194.res.spectrum.com<br/>
+REFERER = https://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 21:14:41<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 99.155.45.3<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = 99-155-45-3.lightspeed.frokca.sbcglobal.net<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 07 Nov 2024 23:33:20<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 158.247.35.90<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = ip.90.35.247.158.ip.kansas.net<br/>
+REFERER = NOT REFERED<br/>
+DATETIME = 08 Nov 2024 04:13:59<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 155.133.4.22<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = 155.133.4.22<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 08 Nov 2024 07:41:42<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 155.133.4.22<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.3 Safari/605.1.15<br/>
+HOST ADDR = 155.133.4.22<br/>
+REFERER = https://www.pojelaime.net/themes/chwin.html<br/>
+DATETIME = 08 Nov 2024 07:56:35<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 155.133.4.16<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.3 Safari/605.1.15<br/>
+HOST ADDR = 155.133.4.16<br/>
+REFERER = https://xallied.com/nnn/chwin.html<br/>
+DATETIME = 08 Nov 2024 09:47:55<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 108.252.113.182<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0<br/>
+HOST ADDR = 108-252-113-182.lightspeed.hstntx.sbcglobal.net<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 08 Nov 2024 11:03:33<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 107.77.229.194<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = mobile-107-77-229-194.mobile.att.net<br/>
+REFERER = https://xallied.com//wp-includes/chwin.html<br/>
+DATETIME = 08 Nov 2024 17:19:17<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 35.208.38.153<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0<br/>
+HOST ADDR = 153.38.208.35.bc.googleusercontent.com<br/>
+REFERER = NOT REFERED<br/>
+DATETIME = 08 Nov 2024 20:30:44<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 155.133.4.22<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.3 Safari/605.1.15<br/>
+HOST ADDR = 155.133.4.22<br/>
+REFERER = https://www.pojelaime.net/themes/chwin.html<br/>
+DATETIME = 08 Nov 2024 21:49:57<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 76.34.143.154<br/>
+USER-AGENT = Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Mobile/15E148 Safari/604.1<br/>
+HOST ADDR = syn-076-034-143-154.res.spectrum.com<br/>
+REFERER = http://verdiledlighting.com/<br/>
+DATETIME = 09 Nov 2024 08:23:34<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 174.228.231.52<br/>
+USER-AGENT = Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/26.0 Chrome/122.0.0.0 Mobile Safari/537.36<br/>
+HOST ADDR = 52.sub-174-228-231.myvzw.com<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 10 Nov 2024 01:27:51<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 86.107.104.235<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+HOST ADDR = 86.107.104.235<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 10 Nov 2024 04:24:24<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 64.95.11.141<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = 64.95.11.141<br/>
+REFERER = https://xallied.com/<br/>
+DATETIME = 11 Nov 2024 21:07:53<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 197.185.148.238<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = rain-197-185-148-238.rain.network<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 13 Nov 2024 11:39:27<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 34.201.39.227<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+HOST ADDR = ec2-34-201-39-227.compute-1.amazonaws.com<br/>
+REFERER = NOT REFERED<br/>
+DATETIME = 13 Nov 2024 17:34:51<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 185.199.103.15<br/>
+USER-AGENT = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0<br/>
+HOST ADDR = visit.keznews.com<br/>
+REFERER = NOT REFERED<br/>
+DATETIME = 13 Nov 2024 17:35:00<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 23.83.135.231<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = 23.83.135.231<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 14 Nov 2024 09:59:19<br/>
+<br/>
+--------| VIS!T0R|--------<br/>
+IP = 23.83.131.23<br/>
+USER-AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+HOST ADDR = 23.83.131.23<br/>
+REFERER = https://www.pojelaime.net/<br/>
+DATETIME = 18 Nov 2024 08:36:28<br/>
+<br/>

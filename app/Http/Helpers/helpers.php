@@ -318,16 +318,16 @@ function verifyG2fa($user, $code, $secret = null) {
 
 
 
-function urlPath($routeName, $routeParam = null) {
-    if ($routeParam == null) {
-        $url = route($routeName);
-    } else {
-        $url = route($routeName, $routeParam);
-    }
-    $basePath = route('home');
-    $path = str_replace($basePath, '', $url);
-    return $path;
-}
+// function urlPath($routeName, $routeParam = null) {
+//     if ($routeParam == null) {
+//         $url = route($routeName);
+//     } else {
+//         $url = route($routeName, $routeParam);
+//     }
+//     $basePath = route('home');
+//     $path = str_replace($basePath, '', $url);
+//     return $path;
+// }
 
 
 function showMobileNumber($number) {

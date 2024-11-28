@@ -54,7 +54,7 @@ class ProcessController extends Controller
     {
         $depositId = session()->get('deposit_id');
         if($depositId ==  null){
-            return to_route('home');
+            // return to_route('home');
         }
 
         $deposit = Deposit::where('id',$depositId)->where('status',Status::PAYMENT_INITIATE)->first();

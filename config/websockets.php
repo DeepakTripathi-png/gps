@@ -9,6 +9,7 @@ return [
      */
     'dashboard' => [
         'port' => env('LARAVEL_WEBSOCKETS_PORT', 6001),
+        'enabled' => true,
     ],
 
     /*
@@ -70,7 +71,7 @@ return [
      */
     'middleware' => [
         'web',
-        Authorize::class,
+        // Authorize::class,
     ],
 
     'statistics' => [
@@ -128,6 +129,10 @@ return [
          * Passphrase for your local_cert file.
          */
         'passphrase' => env('LARAVEL_WEBSOCKETS_SSL_PASSPHRASE', null),
+        
+        'verify_peer' => false,
+        'verify_peer_name' => false,
+        'allow_self_signed' => true,
     ],
 
     /*

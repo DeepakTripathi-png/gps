@@ -22,7 +22,6 @@
           <img src="{{ asset('assets/errors/images/error-419.png') }}" alt="@lang('image')">
           <h2><b>@lang('419')</b> @lang('Sorry your session has expired.')</h2>
           <p>@lang('Please go back and refresh your browser and try again')</p>
-          <a href="{{ route('home') }}" class="cmn-btn mt-4">@lang('Go to Home')</a>
         </div>
       </div>
     </div>

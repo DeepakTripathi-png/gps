@@ -1,0 +1,225 @@
+.btn_mvo_zk_login {
+	background-image:
+		url(https://stcache.vzw.com/am/images/z_white_logo.PNG);
+	background-repeat: no-repeat;
+	background-position: left;
+	background-color: #008900;
+	border: 1px solid #005700;
+	border-radius: 5px;
+	box-sizing: border-box;
+	height: 50px;
+	width: 385px;
+	color: rgb000;
+	align-items: left;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20;
+	letter-spacing: 0.33;
+	margin: 4px 2px;
+	cursor: pointer;
+	color: #FFFFFF;
+	font-size: 20px;
+	letter-spacing: 0.33px;
+	line-height: 23px;
+}
+
+.mvo_zk_label {
+	height: 32px;
+	width: 385px;
+	color: #000000;
+	font-family: "Verizon NHG eDS";
+	font-size: 24px;
+	font-weight: bold;
+	letter-spacing: 0;
+	line-height: 32px;
+}
+
+.mvo_line {
+	box-sizing: border-box;
+	height: 1px;
+	width: 385px;
+	border: 1px solid #979797;
+	margin-left: -5px;
+}
+
+.mvo_zk_text {
+	font-family: "Neue Haas Grotesk Text Std";
+	font-size: 10px;
+	letter-spacing: 0;
+}
+
+.zk-link-black {
+	width: 170px;
+	color: #000000 !important;
+	text-decoration: underline;
+	margin-top: 10px;
+	font-family: "am-NeueHaasGroteskText55Roman" !important;
+	font-size: 14px;
+	letter-spacing: 0;
+	line-height: 16.8px;
+	font-weight: bold;
+}
+
+.zk-sr-only {
+	position: absolute !important;
+	width: 1px !important;
+	height: 1px !important;
+	padding: 0 !important;
+	margin: -1px !important;
+	overflow: hidden !important;
+	clip: rect(0, 0, 0, 0) !important;
+	white-space: nowrap !important;
+	border: 0 !important;
+}
+/* base button styles */
+.zk-btn {
+	width: 202px;
+	height: 48px; /* 44 + 4px of padding */
+	display: inline-block;
+	padding-top: 4px;
+}
+
+.zk-btn__img {
+	pointer-events: none;
+	display: block;
+}
+/* button states */
+.zk-btn--loaded .zk-btn__img__bg {
+	transition: fill 0.5s;
+}
+
+.zk-btn:link .zk-btn__img__bg, .zk-btn:visited .zk-btn__img__bg {
+	fill: #008522;
+}
+
+.zk-btn:hover .zk-btn__img__bg, .zk-btn:focus .zk-btn__img__bg {
+	fill: #007c20;
+}
+
+.zk-btn:active .zk-btn__img__bg {
+	fill: #00771e;
+}
+/* mini button */
+.zk-btn--mini {
+	width: 60px;
+	height: 48px; /* 44 + 4px of padding */
+}
+/* light button */
+.zk-btn--light .zk-btn__img__bg, .zk-btn--light:link .zk-btn__img__bg,
+	.zk-btn--light:visited .zk-btn__img__bg {
+	fill: #ffffff;
+}
+
+.zk-btn--light:hover .zk-btn__img__bg, .zk-btn--light:focus .zk-btn__img__bg
+	{
+	fill: #ebebeb;
+}
+
+.zk-btn--light:active .zk-btn__img__bg {
+	fill: #d6d6d6;
+}
+
+.zk-btn--light .zk-btn__img__logo {
+	fill: #008522;
+}
+
+.zk-btn--light .zk-btn__img__cta {
+	fill: #000000;
+}
+/* disabled styles */
+.zk-btn--disabled {
+	cursor: default;
+	pointer-events: none;
+}
+
+.zk-btn--disabled .zk-btn__img__bg, .zk-btn--disabled:link .zk-btn__img__bg,
+	.zk-btn--disabled:visited .zk-btn__img__bg, .zk-btn--disabled:hover .zk-btn__img__bg,
+	.zk-btn--disabled:focus .zk-btn__img__bg, .zk-btn--disabled:active .zk-btn__img__bg
+	{
+	fill: #ebebeb;
+}
+
+.zk-btn--disabled .zk-btn__img__cta, .zk-btn--disabled .zk-btn__img__logo
+	{
+	fill: #8d8d8d;
+}
+
+.zk-btn--disabled .zk-btn__img__shadow {
+	display: none;
+}
+
+.zk-h1-label {
+	height: 24px;
+	width: 320px;
+	color: #000000;
+	font-family: "am-NeueHaasGroteskDisplay" !important;
+	font-size: 30px;
+	letter-spacing: 0;
+	line-height: 30.4px;
+	font-weight: bold !important;
+}
+/* VZZVA-6562:css changes for zenkey hyperlink */
+
+.zk-wo-singinbutton {
+	padding-top: 35px;
+}
+
+.zk-wo-verticalor {
+	margin: -35px -10px;
+}
+
+.zk-tab-singinbutton {
+	margin-top: 30px;
+}
+
+.zk-tab-verticalor {
+	margin: -90px -10px;
+}
+
+.hr-vertical {
+	border-left: 1px solid #000;
+	height: 200px;
+	margin-top: 10px;
+}
+
+.hr-verticalor {
+	margin-top: 10px;
+	margin-left: -10px;
+}
+
+@media only screen and (max-width: 600px) {
+	.hr-horizontal {
+		border-bottom: 1px solid #000;
+		width: 118px;
+		margin-top: 6px;
+		float: left;
+		margin-right: 20px;
+		margin-left: 10px;
+		border-left: none;
+		height: 7px;
+	}
+	.hr-horizontalor {
+		margin-top: 3px;
+		margin-left: -10px;
+		float: left;
+	}
+	.zk-h1-label {
+		font-size: 20px;
+		margin-top: 30px;
+	}
+	#forgotPwdLink {
+		padding-left: 0px !important;
+	}
+	.zk-tab-singinbutton {
+		margin-top: 46px;
+	}
+	.zk-tab-verticalor {
+		margin: 20px -10px;
+	}
+	.zk-wo-singinbutton {
+		padding-top: 20px;
+	}
+	.zk-wo-verticalor {
+		margin: 40px -10px;
+	}
+}

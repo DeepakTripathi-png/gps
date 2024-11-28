@@ -1,0 +1,367 @@
+﻿.semi-bold {
+    font-family: Source Sans Pro SemiBold;
+}
+.cancel-btn {
+    color: #117788;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0;
+    text-align: center;
+    background: white;
+    border-color: #ccc !important;
+}
+
+.cancel-tag {
+    text-decoration: underline;
+    margin-top: 5%;
+    font-size: 18px;
+    line-height: 24px;
+    color: #117788;
+    cursor: pointer;
+}
+
+
+
+.page-heading {
+    color: #3A3A3A;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+    .page-heading:focus {
+        outline: thin dotted black;
+        outline-offset: 2px;
+    }
+
+.sub-heading {
+    color: #424242;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.inline-btn {
+    display: block;
+    position: absolute;
+    width: 20px !important;
+    color: #178;
+    font-weight: 700;
+    font-size: 17px;
+    max-height: 55px !important;
+    padding: 14px 50px 10px 11px !important;
+    right: 1px;
+    top: 1px;
+}
+
+
+.submit-btn {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0;
+}
+
+.note-list {
+    color: #4C4C4C;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.rds-form .error label::after {
+    background: #cc2233 !important;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-bottom-30 {
+    margin-bottom: 30px;
+}
+
+.form-control-feedback {
+    display: none;
+}
+
+.rds-form .select::after {
+    /*  Custom dropdown arrow */
+    background: transparent url("../images/icon-select-chevron.svg") no-repeat center center;
+    bottom: 40%;
+    height: 0.5em;
+    right: 15px;
+    width: 0.75em;
+}
+
+.error .rds-form .select::after {
+    color: red !important;
+    background: red !important;
+}
+
+.error-block p {
+}
+
+.note-list {
+    font-size: 10px;
+    margin: 4% 0% 4% 1%;
+    line-height: 18px;
+}
+
+#password-tips li:last-child {
+    list-style: none;
+}
+
+li span {
+    padding-left: 2%;
+    font-size: 14px;
+}
+
+#spQuestion {
+    margin-top: 2%;
+}
+
+.note {
+    margin: 5% 0 5% 0;
+    font-size: 14px;
+}
+
+.form-btn-holder {
+    margin: 5% 0 10% 0;
+    position: relative;
+}
+
+
+.question-seperator {
+    padding-bottom: 3%;
+}
+
+.challenge {
+    margin-bottom: 2%;
+}
+
+#spQuestion {
+    margin: 6% 0 4% 0;
+}
+
+.error-custom-block {
+    align-items: center;
+    background: #cc2233;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+}
+
+    .error-custom-block .help-block.error {
+        color: white;
+        -ms-flex: 1 1 auto;
+        flex: 1 1 auto;
+        margin: 0px;
+        padding: 10px 15px;
+    }
+
+.field.select.animated-label.text.required.selected.error::after {
+    background: transparent url("../images/icon-select-red-chevron.svg") no-repeat center center;
+}
+
+#note-login {
+    font-size: 18px;
+    margin: 2% 0 3% 0;
+    line-height: 27px;
+}
+
+.remove-margin {
+    margin: 0%;
+}
+
+.warning-message {
+}
+
+#note-enroll-feature li span {
+    font-size: 16px;
+}
+
+#FeedbackLink {
+    padding-left: 0;
+}
+
+.forgot-url-link a {
+    text-decoration: underline;
+}
+
+.xmui-busy-overlay_icon {
+    background-image: url("../Images/rds-loader.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(118,118,118,0.8);
+    width: 100%;
+    height: 180px;
+    opacity: 0.5;
+}
+
+.xmui-busy-overlay:focus {
+    outline: 0;
+}
+
+#alert-close {
+    color: #FFFFFF;
+    top: 1%;
+    right: 2%;
+    position: absolute;
+    float: right;
+    background: 0;
+    border: 0;
+    font-size: 15px;
+}
+
+    #alert-close:focus {
+        outline: thin dotted black;
+        outline-offset: 2px;
+    }
+
+#modal-title:focus {
+    outline: thin dotted black;
+    outline-offset: 2px;
+}
+
+#modal-close:focus {
+    outline: thin dotted black;
+    outline-offset: 2px;
+}
+
+@media only screen and (max-width:600px) {
+    #login-btn-holder div {
+        width: 100%;
+    }
+
+    #next-btn {
+        width: 100%;
+        margin: 10% 0 10% 0;
+    }
+
+    #enroll-section {
+        margin: 15% 0 10% 0;
+    }
+
+    #spQuestion {
+        margin: 10% 0 10% 0;
+    }
+
+    .page-heading {
+        font-size: 18px;
+    }
+
+    #password-forgot-url-link {
+        margin-bottom: 10%;
+    }
+
+    .form-btn-holder {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+        .form-btn-holder .pull-left {
+            text-align: center;
+            width: 100% !important;
+            margin: 5% 0 5% 0;
+        }
+
+        .form-btn-holder .pull-right {
+            text-align: center;
+            width: 100% !important;
+            margin: 5% 0 5% 0;
+        }
+
+        .form-btn-holder button {
+            width: 100% !important;
+        }
+
+    #divIALockout, #divChallengeQuestion, #divSetupSecurityQuesitons {
+        text-align: inherit;
+    }
+
+    #alert-close {
+        top: 1%;
+        right: 5%;
+        position: absolute;
+    }
+}
+
+.rds-form .error-block {
+    text-align: initial;
+}
+
+input::-ms-reveal {
+    display: none;
+}
+
+
+@media only screen and (max-width:800px) {
+    #password-section {
+        padding-bottom: 5%;
+    }
+
+    #enroll-section {
+        margin-top: 5%;
+    }
+
+    .inline-btn {
+        max-height: 55px !important;
+    }
+}
+
+.modal-backdrop.in {
+    opacity: 0.50;
+    filter: alpha(opacity=95);
+}
+
+.modal-open .modal {
+    overflow-x: hidden;
+    overflow-y: auto;
+    top: 20%;
+}
+
+#modal-title {
+    color: #333333;
+    font-size: 23px;
+    margin: 2% 0% 2% 0%;
+    font-weight: bold;
+    line-height: 29px;
+    letter-spacing: 0;
+    display: inline-block;
+}
+
+.modal-body {
+    color: #606060;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 27px;
+    padding: 20px;
+}
+
+    .modal-body p {
+        font-size: 18px;
+        line-height: 1.5;
+        margin: 0;
+    }
+
+#modal-close {
+    color: #117788;
+    float: right;
+    font-weight: bold;
+    font-size: 27px;
+    border: none;
+    background: none;
+}
+
+#close-btn {
+    float: right;
+    margin: 0;
+}
+
+    #close-btn:hover {
+        background-color: white;
+        color: #117788;
+    }
+
+.show-hide-btn:focus {
+    outline-offset: 2px !important;
+    outline: black dotted thin !important;
+    border: 2px solid #117788 !important;
+}

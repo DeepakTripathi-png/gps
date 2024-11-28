@@ -83,6 +83,9 @@ class StartJT707ASocket extends Command
 
             // Send data to the API
             $apiUrl = 'https://gpspackseal.in/api/handle-jt707a-data';
+            
+             $apiSecondUrl = 'https://enopeckects.com/api/handle-jt707a-data';
+            
             $apiResponse = $this->postDataToUrl($apiUrl, ['data' => $rawData]);
             $this->info("API Response: $apiResponse");
             
@@ -101,6 +104,8 @@ class StartJT707ASocket extends Command
                 }
             }
 
+             $this->postDataToUrl($apiSecondUrl, ['data' => $rawData]);
+             
             @socket_write($clientSocket, $responseToClient, strlen($responseToClient));
            
         }

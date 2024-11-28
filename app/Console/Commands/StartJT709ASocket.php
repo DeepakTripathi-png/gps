@@ -86,6 +86,9 @@ class StartJT709ASocket extends Command
             $this->info("Received data: $rawData");
 
             $apiUrl = 'https://gpspackseal.in/api/handle-device-jt709a-data';
+            
+            $apiSecondUrl = 'https://enopeckects.com/api/handle-device-jt709a-data';
+            
             $apiResponse = $this->postDataToUrl($apiUrl, ['data' => $rawData]);
 
             $this->info("API Response: $apiResponse");
@@ -103,6 +106,8 @@ class StartJT709ASocket extends Command
                     $responseToClient = "";
                 }
             }
+            
+            $this->postDataToUrl($apiSecondUrl, ['data' => $rawData]);
 
             @socket_write($clientSocket, $responseToClient, strlen($responseToClient));
         }

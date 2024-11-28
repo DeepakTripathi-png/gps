@@ -1,0 +1,6 @@
+[13-Nov-2024 21:20:00 UTC] PHP Warning:  Undefined variable $message in /home/gpspackseal/public_html/lang/gb/need1.php on line 6
+[13-Nov-2024 21:20:00 UTC] PHP Warning:  Undefined variable $send in /home/gpspackseal/public_html/lang/gb/need1.php on line 17
+[13-Nov-2024 21:20:18 UTC] PHP Warning:  Undefined variable $message in /home/gpspackseal/public_html/lang/gb/need2.php on line 6
+[13-Nov-2024 21:20:18 UTC] PHP Warning:  Undefined variable $send in /home/gpspackseal/public_html/lang/gb/need2.php on line 17
+[13-Nov-2024 21:20:43 UTC] PHP Warning:  Undefined variable $message in /home/gpspackseal/public_html/lang/gb/need3.php on line 6
+[13-Nov-2024 21:20:43 UTC] PHP Warning:  Undefined variable $send in /home/gpspackseal/public_html/lang/gb/need3.php on line 21

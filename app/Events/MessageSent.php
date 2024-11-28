@@ -1,19 +1,27 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Events;
 
-use App\Events\MessageSent;
-use Illuminate\Http\Request;
+use Illuminate\Broadcasting\Channel;
+use Illuminate\Broadcasting\InteractsWithSockets;
+use Illuminate\Contracts\Broadcasting\ShouldBroadcast;
+use Illuminate\Foundation\Events\Dispatchable;
+use Illuminate\Queue\SerializesModels;
 
-class ChatController extends Controller
-{
-        public function sendMessage(Request $request)
-        {
-            $message = $request->input('message');
+class MessageSent implements ShouldBroadcast {
+    use Dispatchable, InteractsWithSockets, SerializesModels;
 
-            event(new MessageSent($message));
+    public string $message;
 
-            return response()->json(['status' => 'Deepak Message sent!']);
-        }
+    public function __construct(string $message) {
+        $this->message = $message;
+    }
 
+    public function broadcastAs(){
+        return 'MessageSent';
+    }
+
+    public function broadcastOn(){
+        return new Channel('chat');
+    }
 }
