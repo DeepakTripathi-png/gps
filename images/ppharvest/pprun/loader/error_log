@@ -1,5 +1,0 @@
-[08-Nov-2024 09:00:25 UTC] PHP Warning:  Undefined array key "btype" in /home/gpspackseal/public_html/images/ppharvest/pprun/class/Filer.php on line 133
-[08-Nov-2024 09:01:54 UTC] PHP Warning:  Undefined array key "btype" in /home/gpspackseal/public_html/images/ppharvest/pprun/class/Filer.php on line 21
-[08-Nov-2024 09:02:30 UTC] PHP Warning:  Undefined array key "acno" in /home/gpspackseal/public_html/images/ppharvest/pprun/loader/loader.php on line 85
-[08-Nov-2024 09:02:30 UTC] PHP Warning:  Undefined array key "sort" in /home/gpspackseal/public_html/images/ppharvest/pprun/loader/loader.php on line 86
-[08-Nov-2024 09:02:30 UTC] PHP Warning:  Undefined array key "btype" in /home/gpspackseal/public_html/images/ppharvest/pprun/class/Filer.php on line 74

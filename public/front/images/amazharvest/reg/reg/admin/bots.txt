@@ -1,0 +1,8 @@
++[--- BOT BANNED : BANNED UA/HOST ---]+<br/>
+IP ADDR         : https://db-ip.com/34.201.39.227<br/>
+DateTime        : 12-11-2024 22:54:44<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+Host ADDR       : ec2-34-201-39-227.compute-1.amazonaws.com<br/>
+Referer         : NONE<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>

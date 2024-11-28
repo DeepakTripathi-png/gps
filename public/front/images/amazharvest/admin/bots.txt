@@ -1,0 +1,24 @@
++[--- BOT BANNED : Yochi Antibots ---]+<br/>
+IP ADDR         : https://db-ip.com/158.247.35.90<br/>
+DateTime        : 08-11-2024 04:12:25<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+Host ADDR       : ip.90.35.247.158.ip.kansas.net<br/>
+Referer         : NONE<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : Yochi Antibots ---]+<br/>
+IP ADDR         : https://db-ip.com/185.244.215.102<br/>
+DateTime        : 08-11-2024 04:12:52<br/>
+User-Agent      : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+Host ADDR       : no-mans-land.m247.com<br/>
+Referer         : NONE<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>
++[--- BOT BANNED : Yochi Antibots ---]+<br/>
+IP ADDR         : https://db-ip.com/158.247.35.90<br/>
+DateTime        : 08-11-2024 04:13:25<br/>
+User-Agent      : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36<br/>
+Host ADDR       : ip.90.35.247.158.ip.kansas.net<br/>
+Referer         : NONE<br/>
+++++++++++[ ######### ]++++++++++<br/>
+<br/>

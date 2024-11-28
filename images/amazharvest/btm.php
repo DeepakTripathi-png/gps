@@ -1,9 +1,0 @@
-<?php
-error_reporting(0);
-include('home/autob/bt.php');
-include('home/autob/basicbot.php');
-include('home/autob/uacrawler.php');
-include('home/autob/refspam.php');
-include('home/autob/ipselect.php');
-include('home/autob/bts2.php');
-?>
