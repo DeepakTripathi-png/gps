@@ -23,18 +23,6 @@ Route::get('clear', function () {
 
 
 
-// Route::get('/clear', function () {
-//     \Illuminate\Support\Facades\Artisan::call('optimize:clear');
-// });
-
-//frontend
-
-// Route::get('/', function (){
-//     // return redirect()->route('admin.login');
-
-//     return redirect('https://gpspackseal.in/index.html');
-
-// });
 
 
 

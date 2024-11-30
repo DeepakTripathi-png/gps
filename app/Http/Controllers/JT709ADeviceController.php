@@ -166,6 +166,8 @@ class JT709ADeviceController extends Controller
             }else{
                  $lockState="unlock";
             }
+
+            $lockAlert = $parsedData['DataBody']['LockStatus'] === 0 ? 'true' : 'false';
             
             
     
@@ -180,7 +182,7 @@ class JT709ADeviceController extends Controller
                 'timestamp'    => $parsedData['DataBody']['GpsTime'] ?? null,
                 'speed'        => $parsedData['DataBody']['Speed'] ?? null,
                 'odometer'     => $parsedData['DataBody']['Mileage'] ?? null,
-                'ignition'     => $parsedData['DataBody']['LockStatus'] ?? null,
+                'ignition'     =>  $lockAlert,
                 'fault'        => $parsedData['DataBody']['Alarm'] ?? null,
                 'attributes' => json_encode([
                     'batteryLevel' =>$parsedData['DataBody']['Battery']??0,
@@ -247,6 +249,8 @@ class JT709ADeviceController extends Controller
             }else{
                  $lockState="unlock";
             }
+
+            $lockAlert = $deviceData['LockStatus'] ? 'true' : 'false';
             
            
             

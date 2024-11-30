@@ -95,6 +95,7 @@ class JT707DeviceController extends Controller
         
             // Determine lock state based on LockStatus
             $lockState = ($parsedData['DataBody']['LockRope'] == 1) ? "lock" : "unlock";
+            $lockAlert = $parsedData['DataBody']['LockStatus'] === 0 ? 'true' : 'false';
         
             // Prepare the data array to be inserted
             $data = [
@@ -105,13 +106,13 @@ class JT707DeviceController extends Controller
                 'timestamp'    => $parsedData['DataBody']['GpsTime'] ?? null,
                 'speed'        => $parsedData['DataBody']['Speed'] ?? null,
                 'odometer'     => $parsedData['DataBody']['Mileage'] ?? null,
-                'ignition'     => $parsedData['DataBody']['LockStatus'] ?? null,
+                'ignition'     => $lockAlert,
                 'fault'        => $parsedData['DataBody']['Alarm'] ?? '0', // Default to '0' if not set
                 'attributes'   => json_encode([
                     'batteryLevel' => $parsedData['DataBody']['Battery'] ?? 0,
                     'odometer'     => $parsedData['DataBody']['Mileage'],
                     'lock'         => $lockState,
-                    'ignition'     => $parsedData['DataBody']['LockStatus'] ?? 0,
+                    'ignition'     => $lockAlert,
                     'speed'        => $parsedData['DataBody']['Speed'],
                     'ip'           => $parsedData['DataBody']['ip'] ?? '127.0.0.1',
                     'motion'       => $parsedData['DataBody']['motion'] ?? false,
@@ -168,12 +169,15 @@ class JT707DeviceController extends Controller
             $speed = $deviceData['Speed'] ?? 0;
             $odometer = $deviceData['Mileage'] ?? 0;
             $ignition = $deviceData['LockStatus'] ?? 0;
+
+
             $fault = $deviceData['Alarm'] ?? '';
             $altitude = $deviceData['Altitude'] ?? 0;
             $fenceId = $deviceData['FenceId'] ?? '';
         
             // Determine lock state
             $lockState = ($deviceData['LockRope'] == 1) ? "lock" : "unlock";
+            $lockAlert = $deviceData['LockStatus'] === 0 ? 'true' : 'false';
         
             // Get device ID from database
             $deviceId = DB::table('tc_devices')->where('uniqueid', $id)->value('id');
@@ -201,7 +205,7 @@ class JT707DeviceController extends Controller
                     'batteryLevel' => $batteryLevel,
                     'odometer' => $odometer,
                     'lock' => $lockState,
-                    'ignition' => $ignition,
+                    'ignition' => $lockAlert,
                     'speed' => $speed,
                     'ip' => $deviceData['ip'] ?? '127.0.0.1',
                     'motion' => $deviceData['motion'] ?? false,
